@@ -1,0 +1,87 @@
+
+.btn-primary{
+    background-color: pink;
+}
+.header{
+    background-color: #E554731A;
+}
+.banner{
+    padding: 30px 30px 30px 250px;
+    display: flex;
+}
+.banner-text{
+    padding-right: 200px;
+}
+.email-box{
+    width: 500px;
+    height: 30px;
+    border:none;
+    border-radius: 5px;
+
+}
+
+
+
+.h2{
+    text-align: center;
+}
+.h6{
+    color: darkgray;
+text-align: center;
+font-size: 9px;
+line-height: 10px;
+}
+.insta{
+    text-align: center;
+}
+
+
+.images{
+    display: flex;
+    align-items: center;
+    width:220px;
+height: 200px;
+}
+.text{
+    text-align: center;
+   
+}
+.footer{
+    padding:100px 100px 100px 100px ;
+    background-image:url('Rectangle 9.png');
+}
+
+.foot{
+    background-color: black;
+    padding: 100px 100px 100px 100px;
+}
+
+
+.font{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.nav-text{
+    text-align: center;
+    color:white;
+}
+.text-primary{
+    color: pink;
+}
+
+.cls{
+    color:rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 5px;
+}
+.size{
+    font-size: 50px;
+    font-weight: 100px;
+}
+.point{
+    font-size: 10px;
+    font-weight: 10px;
+}
